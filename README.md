@@ -2,6 +2,9 @@
 
 # A datascience project monitored by Edacy in order to integrate C9
 
+# Projet réalisé par : Prénom: Mahanta
+#                      Nom: FALL
+#                      Email: mahanta996@gmail.com
 
 # 1/ Le projet a été  réalisé à l'aide du notebook jupyter qui est selon moi un notebook idéale pour travailler avec des données.
 # 2/ Ainsi le fichier jupyterworkflow.ipynb contient le script du code et quelques visualisations.
